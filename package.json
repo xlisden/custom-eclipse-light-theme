@@ -1,0 +1,33 @@
+{
+  "name": "eclipse-light-theme",
+  "displayName": "Eclipse Light Theme",
+  "description": "Variation of Eclipse Light Theme From arzg.",
+  "version": "1.0.0",
+  "publisher": "xLisden",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xlisden/custom-eclipse-light-theme"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "eclipse",
+    "eclipse theme",
+    "eclipse light theme"
+  ],
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eclipse Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Eclipse Light Theme-color-theme.json"
+      }
+    ]
+  }
+}
