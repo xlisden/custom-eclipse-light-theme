@@ -10,8 +10,6 @@
 		"sideBar.background": "#f3f3f3",
 		"statusBar.background": "#f3f3f3",
 		"statusBar.foreground": "#333333",
-		"statusBarItem.remoteBackground": "#f3f3f3",
-		"statusBarItem.remoteForeground": "#333333",
 		"statusBarItem.activeBackground": "#dddddd",
 		"statusBarItem.hoverBackground": "#dddddd", 
         "list.activeSelectionIconForeground": "#fff",
