@@ -9,7 +9,9 @@
 		"editorLineNumber.foreground": "#aaaaaa",
 		"sideBar.background": "#f3f3f3",
 		"statusBar.background": "#f3f3f3",
-		"statusBar.foreground": "#111111",
+		"statusBar.foreground": "#333333",
+		"statusBarItem.remoteBackground": "#f3f3f3",
+		"statusBarItem.remoteForeground": "#333333",
 		"statusBarItem.activeBackground": "#dddddd",
 		"statusBarItem.hoverBackground": "#dddddd", 
         "list.activeSelectionIconForeground": "#fff",
@@ -282,6 +284,14 @@
 				"foreground": "#2D0BF2",
 				"fontStyle": ""
 			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+			  "foreground": "#b9b9b9",
+			  "fontStyle": "italic"
+			}
 		}
+		  
 	]
 }
